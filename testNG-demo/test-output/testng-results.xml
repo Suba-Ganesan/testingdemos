@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T14:20:38 IST" name="Suite" finished-at="2022-10-18T14:20:38 IST" duration-ms="85">
+    <groups>
+      <group name="Smoke">
+        <method signature="HomeLoanApplicationTests.APIHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@732c2a62]" name="APIHomeLoan" class="loanapplications.HomeLoanApplicationTests"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-10-18T14:20:38 IST" name="SmokeTests" finished-at="2022-10-18T14:20:38 IST" duration-ms="85">
+      <class name="loanapplications.HomeLoanApplicationTests">
+        <test-method signature="APIHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@732c2a62]" started-at="2022-10-18T14:20:38 IST" name="APIHomeLoan" finished-at="2022-10-18T14:20:38 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIHomeLoan -->
+      </class> <!-- loanapplications.HomeLoanApplicationTests -->
+    </test> <!-- SmokeTests -->
+  </suite> <!-- Suite -->
+</testng-results>
